@@ -1,0 +1,102 @@
+{
+  "uuid": "084f28c7-7894-495b-9ae9-8b3b7cf590a3",
+  "historyId": "446d82769f70411f29e43c7d7458102e",
+  "fullName": "User Authentication: Successful Registration",
+  "labels": [
+    {
+      "name": "host",
+      "value": "EPINHYDW12CA"
+    },
+    {
+      "name": "thread",
+      "value": "29456@EPINHYDW12CA.main(1)"
+    },
+    {
+      "name": "feature",
+      "value": "User Authentication"
+    },
+    {
+      "name": "story",
+      "value": "Successful Registration"
+    },
+    {
+      "name": "suite",
+      "value": "User Authentication"
+    },
+    {
+      "name": "testClass",
+      "value": "Successful Registration"
+    },
+    {
+      "name": "framework",
+      "value": "cucumber4jvm"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "gherkin_uri",
+      "value": "file:///C:/PBE/RestaurentProject/src/test/resources/features.authentication/AuthenticationFeature.feature"
+    },
+    {
+      "name": "package",
+      "value": "src.test.resources.features_authentication.AuthenticationFeature_feature.User Authentication"
+    }
+  ],
+  "links": [],
+  "name": "Successful Registration",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have valid user details",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1743612476318,
+      "stop": 1743612476324
+    },
+    {
+      "name": "When  I send a registration request",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1743612476326,
+      "stop": 1743612479041
+    },
+    {
+      "name": "Then  I should get a response with status code 201",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1743612479041,
+      "stop": 1743612479052
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1743612476316,
+  "stop": 1743612479055
+}

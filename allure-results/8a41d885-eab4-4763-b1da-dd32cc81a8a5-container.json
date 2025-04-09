@@ -1,0 +1,11 @@
+{
+  "uuid": "8a41d885-eab4-4763-b1da-dd32cc81a8a5",
+  "name": "Scenario: Successful Registration",
+  "children": [
+    "084f28c7-7894-495b-9ae9-8b3b7cf590a3"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1743612476315,
+  "stop": 1743612479056
+}
