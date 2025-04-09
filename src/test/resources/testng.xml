@@ -1,0 +1,7 @@
+<suite name="Parallel tests" parallel="methods" thread-count="2">
+    <test name="Login parallel tests">
+        <classes>
+            <class name="tests.uiTests.LoginTest"/>
+        </classes>
+    </test>
+</suite>
